@@ -111,6 +111,12 @@
     transition: .4s;
 }
 
+/*headings*/
+.main_headings{
+    width:100%;
+    text-align: center;
+}
+
 /*services*/
 
 .services{
